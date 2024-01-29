@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Anthony
+
+A freshly graduated Fullstack Web Developer from The Wagon.
 
 <!--
 **Anthony-code1987/Anthony-code1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
