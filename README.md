@@ -22,4 +22,4 @@
 <p align="center">- 🌱 I’m currently learning Angular</p>
 <p align="center"><a  href="https://angular.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/angular/angular-original.svg" alt="angular" width="100" height="100"></a></p>
 <br>
-<h3 align="center"><strong>📫 How to reach me:</strong><a align="center" href="adupuis.anthony@gmail.com">  My email</a></h3>
+<h3 align="center"><strong>📫 How to reach me:</strong>adupuis.anthony@gmail.com</h3>
